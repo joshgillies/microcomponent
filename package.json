@@ -1,0 +1,19 @@
+{
+  "name": "microcomponent",
+  "version": "1.0.0",
+  "description": "Simple wrapper around nanocomponent",
+  "main": "index.js",
+  "repository": "git@github.com:joshgillies/microcomponent.git",
+  "author": "Josh Gillies <github@josh.gl>",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "nanocomponent": "^2.0.3",
+    "nanomorph": "^3.0.1"
+  },
+  "devDependencies": {
+    "standard": "^9.0.1"
+  }
+}
