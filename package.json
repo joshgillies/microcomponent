@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "nanocomponent": "^2.0.3",
-    "nanomorph": "^3.0.1"
+    "nanomorph": "^4.0.2"
   },
   "devDependencies": {
     "standard": "^9.0.1"
